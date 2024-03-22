@@ -1,6 +1,6 @@
 {
   "name": "coinbasewallet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -30,6 +30,6 @@
   "dependencies": {
     "@shinhwa2021/teaprotocol": "^1.0.6",
     "@shinhwa2021/houseselling": "^1.0.3",
-    "doggy4fun":"1.0.2"
+    "doggy4fun": "1.0.2"
   }
 }
