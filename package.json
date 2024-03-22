@@ -1,0 +1,35 @@
+{
+  "name": "coinbasewallet",
+  "version": "1.0.1",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangxi2023/coinbasewallet"
+  },
+  "website": "https://github.com/wangxi2023/coinbasewallet.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "wangxi2023",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangxi2023/coinbasewallet/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wangxi2023/coinbasewallet#readme",
+  "dependencies": {
+    "@shinhwa2021/teaprotocol": "^1.0.6",
+    "@shinhwa2021/houseselling": "^1.0.3",
+    "doggy4fun":"1.0.2"
+  }
+}
